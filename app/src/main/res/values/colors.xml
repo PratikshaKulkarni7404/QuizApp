@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color -->
+    <color name="colorPrimary">#0D47A1</color> <!-- Dark Blue -->
+
+    <!-- Dark Primary Color -->
+    <color name="colorPrimaryDark">#002171</color> <!-- Deep Navy -->
+
+    <!-- Accent Color -->
+    <color name="colorAccent">#D32F2F</color> <!-- Dark Red -->
+
+    <!-- Background Color -->
+    <color name="colorBackground">#121212</color> <!-- Almost Black -->
+
+    <!-- Text Color Primary -->
+    <color name="colorTextPrimary">#E0E0E0</color> <!-- Light Gray -->
+
+    <!-- Text Color Secondary -->
+    <color name="colorTextSecondary">#757575</color> <!-- Medium Gray -->
+
+    <!-- Progress Bar Color -->
+    <color name="colorProgressBar">#FFA000</color> <!-- Dark Amber -->
+
+    <!-- Button Colors -->
+    <color name="colorButtonSkip">#D84315</color> <!-- Dark Orange -->
+    <color name="colorButtonHint">#FF6F00</color> <!-- Deep Orange Yellow -->
+</resources>

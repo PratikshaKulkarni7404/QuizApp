@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">quizTutorial</string>
+    <string name="score">Score 0/8</string>
+    <string name="question_number">1/8 Question</string>
+
+    <string name="question_1">What is the capital of France?</string>
+    <string name="question_1A">Paris</string>
+    <string name="question_1B">London</string>
+    <string name="question_1C">Rome</string>
+    <string name="question_1D">Berlin</string>
+    <string name="answer_1">Paris</string>
+
+    <string name="question_2">Who wrote Romeo and Juliet?</string>
+    <string name="question_2A">William Shakespeare</string>
+    <string name="question_2B">Charles Dickens</string>
+    <string name="question_2C">Mark Twain</string>
+    <string name="question_2D">Jane Austen</string>
+    <string name="answer_2">William Shakespeare</string>
+
+    <string name="question_3">What is the largest planet in our solar system?</string>
+    <string name="question_3A">Earth</string>
+    <string name="question_3B">Jupiter</string>
+    <string name="question_3C">Mars</string>
+    <string name="question_3D">Saturn</string>
+    <string name="answer_3">Jupiter</string>
+
+    <string name="question_4">Who was the first president of the United States?</string>
+    <string name="question_4A">Abraham Lincoln</string>
+    <string name="question_4B">Thomas Jefferson</string>
+    <string name="question_4C">George Washington</string>
+    <string name="question_4D">John Adams</string>
+    <string name="answer_4">George Washington</string>
+
+    <string name="question_5">Which element has the chemical symbol O?</string>
+    <string name="question_5A">Oxygen</string>
+    <string name="question_5B">Gold</string>
+    <string name="question_5C">Silver</string>
+    <string name="question_5D">Iron</string>
+    <string name="answer_5">Oxygen</string>
+
+    <string name="question_6">What is the largest continent on Earth?</string>
+    <string name="question_6A">Africa</string>
+    <string name="question_6B">Asia</string>
+    <string name="question_6C">North America</string>
+    <string name="question_6D">Europe</string>
+    <string name="answer_6">Asia</string>
+
+    <string name="question_7">Which ocean is the deepest in the world?</string>
+    <string name="question_7A">Atlantic Ocean</string>
+    <string name="question_7B">Indian Ocean</string>
+    <string name="question_7C">Arctic Ocean</string>
+    <string name="question_7D">Pacific Ocean</string>
+    <string name="answer_7">Pacific Ocean</string>
+
+    <string name="question_8">Which is the smallest country in the world by area?</string>
+    <string name="question_8A">Monaco</string>
+    <string name="question_8B">Nauru</string>
+    <string name="question_8C">Vatican City</string>
+    <string name="question_8D">San Marino</string>
+    <string name="answer_8">Vatican City</string>
+
+    <string name="selctedoption">Selected Option</string>
+    <string name="correctanswer">Correct Answer</string>
+</resources>
