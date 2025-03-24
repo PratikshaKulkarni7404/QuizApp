@@ -15,7 +15,7 @@ A simple and interactive Quiz App built using Java in Android Studio. This app a
 - XML for UI Design  
 
 ## Demo Video
-
+https://github.com/PratikshaKulkarni7404/QuizApp/issues/1#issue-2943021195
 
 ## Installation
 1. Clone the repository:  
